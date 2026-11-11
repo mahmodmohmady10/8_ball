@@ -47,3 +47,6 @@ python start.py
    - **Aiming & Shooting:** Click & Drag from Cue Ball to aim and adjust power, then release to shoot.
    - **Spin / English:** Click the bottom-left Cue Ball widget to apply Topspin, Backspin, or Sidespin.
    - **Table Felt Themes:** Press `T` during gameplay to switch between Classic Green, Royal Blue, Ruby Red, and Midnight Purple.
+
+
+By Mahmoud Mohamed SaadAldain
